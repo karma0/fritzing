@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="84.984741mm"
+   height="134.99667mm"
+   viewBox="0 0 84.984741 134.99667"
+   version="1.1"
+   id="svg1464"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="dewalt"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1466"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.914906"
+     inkscape:cx="-14.755614"
+     inkscape:cy="281.44968"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1468"
+       units="mm"
+       spacingx="0.254"
+       spacingy="0.254"
+       originx="-0.16131126"
+       originy="-0.17240042" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1461">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2407"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.050731,0,1 @ F,0,0,1,0,8.2506864,0,1 @ F,0,0,1,0,12.360656,0,1 @ F,0,0,1,0,12.163425,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="10.53515"
+       y="136.93653"
+       width="297.01344"
+       height="78.034692"
+       id="rect1588" />
+    <rect
+       x="40.793685"
+       y="233.90554"
+       width="268.23871"
+       height="78.07392"
+       id="rect1526" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.16131127,-0.17240043)">
+    <path
+       id="rect1470"
+       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:0.264583"
+       d="m 10.212042,0.17240043 h 66.683324 a 8.2506864,8.2506864 45 0 1 8.250686,8.25068637 l 0,114.3853232 A 12.360656,12.360656 135 0 1 72.785396,135.16907 H 12.324736 A 12.163425,12.163425 45 0 1 0.16131127,123.00565 V 10.223131 A 10.050731,10.050731 135 0 1 10.212042,0.17240043 Z"
+       inkscape:path-effect="#path-effect2407"
+       inkscape:original-d="M 0.16131127,0.17240043 H 85.146052 V 135.16907 H 0.16131127 Z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.16131127,0.17240043)"
+       id="text1586"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect1588);display:inline;fill:#000000"
+       x="140.85938"
+       y="0"><tspan
+         x="15.073242"
+         y="153.5625"
+         id="tspan2633">DEWALT
+</tspan></text>
+    <rect
+       style="fill:#8c8c8c;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1"
+       id="rect1694"
+       width="6.2156825"
+       height="5.8543959"
+       x="18.507835"
+       y="2.6978073"
+       inkscape:label="Pin1 - Negative" />
+    <rect
+       style="fill:#8c8c8c;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1"
+       id="rect1694-7"
+       width="6.2156825"
+       height="5.8543959"
+       x="60.667591"
+       y="2.5333586"
+       inkscape:label="Pin2 - Positive" />
+  </g>
+</svg>
